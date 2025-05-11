@@ -1,0 +1,18 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nombre": "Adrian",
+      "edad": 19,
+      "direccion": "Mz E LT 17"
+    },
+    {
+      "id": 2,
+      "nombre": "",
+      "edad": null,
+      "direccion": ""
+    }
+  ],
+  "doctores": [],
+  "citas": []
+}
